@@ -1,0 +1,46 @@
+.section {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+    margin-bottom: 200px;
+}
+
+
+.info {
+    margin-top: 40px;
+    font-family: Julee;
+}
+
+.introduction {
+     font-family: Julee;
+}
+
+p {
+font-family: quicksand;
+width: 400px;}
+.info img {
+    height: 400px;
+    width: 400px;
+}
+
+.introduction img {
+    height: 400px;
+    width: 400px;
+}
+
+h1 {color: white;}
+
+.article {
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.billeder {    display: flex;
+    justify-content: center;
+    align-items: center;
+flex-direction: column;
+gap: 30px;
+}

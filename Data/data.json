@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "hp": "140",
+    "src": "/Pokemon/pokemon8.png",
+    "name": "Chikorita",
+    "type": "grass",
+    "attack": "83",
+    "defense": "100",
+    "speed": "78",
+    "text": "Chikorita is a small dinosaur-like Pokémon, particularly resembling a Sauropoda. It is of light green color and its eyes are dull red. Around its neck are tiny buds that have the ability to shoot out into long vines. Its most notable feature's the large leaf on the top of its head. It has four short legs with one toenail on each foot.",
+    "quickview": "Chikorita (Japanese: チコリータ, Hepburn: Chikoriita) (CHICK-oh-REE-ta[1]) is the Grass-type"
+  },
+  {
+    "hp": "150",
+    "id": 1,
+    "src": "/Pokemon/pokemon1.png",
+    "name": "Squirtle",
+    "type": "water",
+    "attack": "63",
+    "defense": "100",
+    "speed": "58",
+    "text": "Squirtle evolves into Wartortle starting at level 16. It is one of the three First partner Pokémon that can be chosen in Kanto region.",
+    "quickview": "Squirtle (Japanese: ゼニガメ, Hepburn: Zenigame) (SKWIR-tul[1]) is a Water-type Pokémon"
+  },
+  {
+    "hp": "160",
+    "id": 2,
+    "src": "/Pokemon/pokemon3.png",
+    "name": "Bulbasur",
+    "type": "grass",
+    "attack": "53",
+    "defense": "110",
+    "speed": "68",
+    "text": "Bulbasaur evolves into Ivysaur starting at level 16, which evolves into Venusaur starting at level 32. Along with Charmander and Squirtle, Bulbasaur is one of the three first partner Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.",
+    "quickview": "Bulbasaur (Japanese: フシギダネ Fushigidane) is a dual-type Grass/Poison Pokémon"
+  },
+  {
+    "hp": "142",
+    "id": 3,
+    "src": "/Pokemon/pokemon7.png",
+    "name": "Vulpix",
+    "type": "fire",
+    "attack": "93",
+    "defense": "64",
+    "speed": "100",
+    "text": "Vulpix has an Ice-type Alolan Form introduced in Generation VII. Vulpix are fox-like Pokémon with reddish-brown fur. Vulpix's most distinctive feature is its six orange tails that are curled at the tips. According to the Pokédex, when it is born, Vulpix possesses one snow white tail that eventually splits into many tails as it grows older.",
+    "quickview": "Vulpix (Japanese: ロコン, Hepburn: Rokon) (VULL-picks[1]) is a Fire-type Pokémon"
+  },
+  {
+    "hp": "137",
+    "id": 4,
+    "src": "/Pokemon/pokemon6.png",
+    "name": "Eevee",
+    "type": "normal",
+    "attack": "63",
+    "defense": "80",
+    "speed": "78",
+    "text": "Eevee is well known for being the Pokémon with the highest number of evolution possibilities (8), due to its unstable genetic makeup. It is the Version Mascot and First partner Pokémon for the game Pokémon: Let's Go, Eevee!. It also has a Gigantamax form.",
+    "quickview": "Eevee (Japanese: イーブイ, Hepburn: Iibui) (EE-vee[1]) is a Normal-type Pokémon"
+  },
+  {
+    "hp": "140",
+    "id": 5,
+    "src": "/Pokemon/pokemon4.png",
+    "name": "Charmander",
+    "type": "fire",
+    "attack": "73",
+    "defense": "80",
+    "speed": "78",
+    "text": "Charmander evolves into Charmeleon starting at level 16,  which evolves into Charizard starting at level 36. Along with Bulbasaur and Squirtle, Charmander is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.",
+    "quickview": "Charmander (Japanese: ヒトカゲ, Hepburn: Hitokage)(CHAR-man-der[1]) is a Fire-type Pokémon "
+  },
+  {
+    "hp": "160",
+    "id": 6,
+    "src": "/Pokemon/pokemon5.png",
+    "name": "Psyduck",
+    "type": "water",
+    "attack": "64",
+    "defense": "90",
+    "speed": "58",
+    "text": " Psyduck is a medium-sized, yellow platypus-like or duck-like Pokémon. Only the feet and bill are tan. The other body parts are all yellow. Psyduck has three black hairs on top of its head, and its hands are always on its head due to its constant headache.",
+    "quickview": "Psyduck (Japanese: コダック, Hepburn: Kodakku) (SY-duck[1]) is a Water-type Pokémon"
+  },
+  {
+    "hp": "137",
+    "id": 7,
+    "src": "/Pokemon/pokemon 2.png",
+    "name": "Pikachu",
+    "type": "electric",
+    "attack": "75",
+    "defense": "60",
+    "speed": "68",
+    "text": "Pikachu is renowned for being the most well-known and recognizable Pokémon. Over the years, Pikachu has become so popular that it serves as the Pokémon franchise mascot",
+    "quickview": "Pikachu (Japanese: ピカチュウ, Hepburn: Pikachuu) (PEE-ka-choo[1]) is an Electric-type Pokémon"
+  }
+]

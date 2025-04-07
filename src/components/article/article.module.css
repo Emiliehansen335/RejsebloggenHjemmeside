@@ -1,0 +1,49 @@
+.citiesText {
+  color: #ffffff;
+  display: flex;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  font-family: Julee;
+  font-size: 20px;
+}
+
+.articleBilleder {
+      object-fit: cover;
+        background-size: cover;
+  background-position: center;
+  font-family: Julee;
+  display: flex;
+  width: 400px;
+  height: 400px;
+  justify-content: left;
+  align-items: center;
+  flex-direction: column;
+}
+
+.articleBilleder img {
+  width: 100%;
+  height: auto;
+}
+
+.articleSection {
+margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-wrap: row;
+  width: 60vw;
+}
+
+.textContainer {
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textContainer img {
+  height: 400px;  
+  width: 400px;
+}

@@ -1,0 +1,39 @@
+
+.citiesText {
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    font-family: Julee;
+    font-size: 20px;
+    background-color: hsl(138, 79%, 19%);
+}
+
+.cities {
+      font-family: Julee;
+     display: flex;
+      width: 35vw;
+    justify-content: left;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.cities img {
+    width: 400px;
+    height: 400px;
+}
+
+.citiesSection {
+    height: 100%;
+    background-color: #0A5520;
+    align-items: center;
+    justify-content: center;
+       display: flex;
+    flex-wrap: wrap;
+    flex-wrap: row;
+}
+
+h2 {
+    color: white;
+}
